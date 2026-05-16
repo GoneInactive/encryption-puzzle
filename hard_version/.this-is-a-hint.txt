@@ -1,0 +1,1 @@
+Every ciphertext has a length that is an exact multiple of 5. That's not a coincidence.
